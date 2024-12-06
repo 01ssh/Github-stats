@@ -64,6 +64,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01ssh&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=user=01ssh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -73,7 +74,6 @@
 <br/><br/>
 
 <hr/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01ssh&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <br/>
 
 
