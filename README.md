@@ -17,17 +17,13 @@
  
  🏴‍☠️ I used to be a Sales Engineer for tech companies 
 
- 👀 I crashed my first business (thankfully)
-
  🧠 100% Self-taught
 
- 
-💬 Ask me about **Node.js, React, Firebase...**
+💬 Techny Entrepreneur, ask me about **How to upgrade your customer service, how to find new channel of revenues, how to do Enterprise Sales**
 
-⚡ Favorite quote **Easy was never the promise, Victory Was ! **
+⚡ Fun fact : I crashed my first business (thankfully) !!! **
+
 <br/>
-⚡ My advice **Met the right people at the right time & Never show off to early ! **
-
  </div>
  
 <div align="center"> 
