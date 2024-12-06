@@ -49,7 +49,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab" />
 <br/> <h4 align="center">DEVOPS</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+<img src="https://skillicons.dev/icons?i=kubernetes,dockers,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux" /><br>
 </div>
 
 <br/>
