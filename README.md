@@ -45,10 +45,10 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Framework-Tools ⚒️</h2>
-<br/> <h3 align="center">⚒️ DATA ⚒️</h3>
+<br/> <h4 align="center">DATA</h4>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab" />
-<br/> <h3 align="center">⚒️ DEVOPS ⚒️</h3>
+<br/> <h4 align="center">DEVOPS</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
