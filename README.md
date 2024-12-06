@@ -67,6 +67,7 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01ssh&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <br>
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01ssh)](https://github.com/01ssh/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01ssh&show_icons=true)
 </div>
 
 
