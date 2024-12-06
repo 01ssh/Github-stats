@@ -14,8 +14,12 @@
  🔭 I’m currently working on **give consulting to techy entrepreneurs**
  
  🌱 I’m currently learning **C++, R, Python for Data, Data Analytics**
+ 
+ 🏴‍☠️ I used to be a Sales Engineer for tech companies 
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 👀 I crashed my first business (thankfully)
+ 
+💬 Ask me about **Node.js, React, Firebase...**
 
 ⚡ Favorite quote **Easy was never the promise, Victory Was ! **
 
