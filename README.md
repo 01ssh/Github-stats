@@ -25,6 +25,7 @@
 💬 Ask me about **Node.js, React, Firebase...**
 
 ⚡ Favorite quote **Easy was never the promise, Victory Was ! **
+<br/>
 ⚡ My advice **Met the right people at the right time & Never show off to early ! **
 
  </div>
