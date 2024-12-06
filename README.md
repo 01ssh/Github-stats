@@ -50,7 +50,6 @@
     <img src="https://skillicons.dev/icons?i=cpp"/>
     <br/> <h4 align="center">Front-end</h4>
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react"/>
-    
 </div>
 
 <br/>
