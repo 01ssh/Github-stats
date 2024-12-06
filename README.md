@@ -37,15 +37,15 @@
   <a href="https://linkedin.com/in/seehane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Framework-Tools ⚒️</h2>
-<br/> <h4 align="center">DATA</h4>
+<br/>
+<h4 align="center">DATA</h4>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres,matlab"/>
 <br/> <h4 align="center">DEVOPS - CLOUD - INFRA</h4>
@@ -54,23 +54,10 @@
     <img src="https://skillicons.dev/icons?i=cpp"/>
     <br/> <h4 align="center">Front-end</h4>
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react"/>
+    
 </div>
 
 <br/>
 <hr/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01ssh&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-<br>
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01ssh&layout=compact)
-
-<hr/>
-<br/>
 
 
