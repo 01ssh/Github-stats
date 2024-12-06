@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">Passionate about Business & Computer science to solve global complex issues </h3>
+<h3 align="center"> 🌎🪖💥🚀🌪️🏛️</h3>
 
 <br/>
 
