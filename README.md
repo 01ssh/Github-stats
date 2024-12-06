@@ -47,7 +47,7 @@
 <h2 align="center">⚒️ Data Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab,cuda" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
