@@ -47,9 +47,11 @@
 <h2 align="center">⚒️ Languages-Framework-Tools ⚒️</h2>
 <br/> <h4 align="center">DATA</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab"/>
 <br/> <h4 align="center">DEVOPS</h4>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux" /><br>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux"/>
+<br/> <h4 align="center">Low-level</h4>
+    <img src="https://skillicons.dev/icons?i=cpp"/>
 </div>
 
 <br/>
