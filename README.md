@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Seehane!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about Business & Computer science to solve global complex issues 🌎🪖💥🚀🌪️🏛️</h3>
+<h3 align="center">Passionate about Business & Computer science to solve global complex issues 
+    🌎🪖💥🚀🌪️🏛️</h3>
 
 <br/>
 
