@@ -44,11 +44,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Data Languages ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Languages-Framework-Tools ⚒️</h2>
+<br/> <h3 align="center">⚒️ DATA ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab,cuda" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,mongobd,matlab" />
+<br/> <h3 align="center">⚒️ DEVOPS ⚒️</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
